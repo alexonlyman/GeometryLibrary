@@ -5,6 +5,10 @@
   <groupId>com.geometry</groupId>
   <artifactId>GeometryLibrary</artifactId>
   <version>1.0.0</version>
+  <packaging>pom</packaging>
 
   <name>GeometryLibrary</name>
+  <modules>
+    <module>GeometryUtils</module>
+  </modules>
 </project>
